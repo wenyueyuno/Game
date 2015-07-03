@@ -1,0 +1,13 @@
+E:\unity\Candy\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+E:\unity\Candy\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+E:\unity\Candy\Temp\UnityVS_bin\Debug\UnityEditor.dll
+E:\unity\Candy\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+E:\unity\Candy\Temp\UnityVS_bin\Debug\UnityEngine.dll
+E:\unity\Candy\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+E:\unity\Candy\Temp\UnityVS_bin\Debug\UnityEngine.xml
+E:\unity\Candy\Temp\UnityVS_bin\Debug\UnityEditor.xml
+E:\unity\Candy\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+E:\unity\Candy\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+E:\unity\Candy\obj\Debug\UnityVS.Candy.CSharp.csprojResolveAssemblyReference.cache
+E:\unity\Candy\obj\Debug\Assembly-CSharp.dll
+E:\unity\Candy\obj\Debug\Assembly-CSharp.pdb
